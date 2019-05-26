@@ -1,3 +1,4 @@
 theme: jekyll-theme-dinky
 collections:
-  - prints
+  prints:
+    output: true
