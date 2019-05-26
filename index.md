@@ -1,3 +1,3 @@
-<h1>Personal 3D Printing Assets</h1>
+<h1>3D Printing Projects</h1>
 
 WIP... ¯\_(ツ)_/¯
