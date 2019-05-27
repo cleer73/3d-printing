@@ -1,5 +1,4 @@
-<h1>3D Printing Projects</h1>
+3D Printing Projects
+====================
 
-{% for print in site.prints %}
-- [{{ print.title }}]({{ print.url | absolute_url}})
-{% endfor %}
+- (Desk Organizers)[./tree/master/desk_organizers] - A collection of bins for dropping into a gap in two Ikea desk sections.
